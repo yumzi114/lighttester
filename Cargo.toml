@@ -1,0 +1,11 @@
+[workspace]
+members = ["app"
+    
+] 
+default-members = ["app"]
+[workspace.package]
+version = "0.0.2"
+edition = "2021"
+authors = ["yum <yumzi114@gmail.com>"]
+readme = "README.md"
+license = "MIT OR Apache-2.0"
